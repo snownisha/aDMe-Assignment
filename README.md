@@ -14,9 +14,6 @@ Bootstrap for grid design and responsive UI
 4. To start the development server (npm start)
 5. Open http://localhost:3000 to view the app.
 
-## Important Notes
-Ensure you have Node.js installed and this assignment was tested on Node.js version 20.16.0.
-
 # Pagination
 <img width="781" alt="image" src="https://github.com/user-attachments/assets/a937a688-7187-48aa-a14c-a1089183747d">
 
@@ -25,3 +22,7 @@ The gallery uses the **"Load More"** button for pagination. Here’s how it work
 2. **Load More Button**: A "Load More" button is provided at the bottom of the gallery. Clicking this button fetches the next set of images from the API.
 3. **Incremental Loading**: Each click on the "Load More" button increments the page number, which triggers a new fetch request to load additional images.
 4. **Appending Images**: New images are appended to the existing list of images, so previously loaded images remain visible while new ones are added.
+
+## Important Notes
+Ensure you have Node.js installed and this assignment was tested on Node.js version 20.16.0.
+
