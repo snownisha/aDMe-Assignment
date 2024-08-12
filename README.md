@@ -3,9 +3,10 @@
 The objective of the task is to convert the images into a website. The images are rendered by integrating the following URLs (Image URL: https://picsum.photos/v2/list API for pagination: https://picsum.photos/v2/list?page=2&amp;limit=100).
 
 ## Technologies Used
-ReactJs
-Axios for API requests
-Bootstrap for grid design and responsive UI
+1. ReactJs
+2. Axios for API requests
+3. Bootstrap for grid design
+4. responsive UI
 
 ## How to run
 1. Clone the repository
