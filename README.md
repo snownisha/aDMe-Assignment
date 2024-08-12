@@ -10,10 +10,9 @@ The objective of the task is to convert the images into a website. The images ar
 
 ## How to run
 1. Clone the repository
-2. cd image-gallery
-3. Install dependencies (npm install)
-4. To start the development server (npm start)
-5. Open http://localhost:3000 to view the app.
+2. Install dependencies (npm install)
+3. To start the development server (npm start)
+4. Open http://localhost:3000 to view the app.
 
 # Pagination
 <img width="781" alt="image" src="https://github.com/user-attachments/assets/a937a688-7187-48aa-a14c-a1089183747d">
