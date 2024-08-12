@@ -1,6 +1,6 @@
 # aDMe-Assignment
 ## Task Overview (Image Gallery)
-The objective of the task is to convert the images into a website. The images are rendered by integrating the following URLs (Image URL: https://picsum.photos/v2/list API for pagination: https://picsum.photos/v2/list?page=2&amp;limit=100).
+The objective of the task is to convert the images into a website. The images are rendered by integrating the following URLs (Image URL: https://picsum.photos/v2/list and API for pagination: https://picsum.photos/v2/list?page=2&amp;limit=100).
 
 ## Technologies Used
 1. ReactJs
