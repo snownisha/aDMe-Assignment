@@ -1,0 +1,38 @@
+body {
+  padding-top: 20px;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px; /* Adjust spacing between header content and header image */
+}
+
+.logo {
+  width: 100px; /* Adjust the size as needed */
+  height: auto;
+}
+
+.site-title {
+  font-size: 2rem;
+  margin: 0;
+  text-align: center;
+  flex-grow: 1; /* Ensures the site title stays centered */
+}
+
+.header-image-wrapper {
+  display: flex;
+  justify-content: center; /* Center the header image */
+  padding: 20px 0; /* Adds padding above and below the header image */
+}
+
+.header-image {
+  max-width: 100%; /* Ensures the image fits within the container */
+  height: auto;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
